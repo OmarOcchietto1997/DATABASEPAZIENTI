@@ -1,0 +1,171 @@
+C:\Users\occhi\source\repos\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\occhi\source\repos\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\occhi\source\repos\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\occhi\source\repos\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\occhi\source\repos\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\occhi\source\repos\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\occhi\source\repos\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\occhi\source\repos\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\occhi\source\repos\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\occhi\source\repos\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\occhi\source\repos\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\occhi\source\repos\WindowsApp1\obj\Debug\WindowsApp1.pdb
+D:\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+D:\WindowsApp1\bin\Debug\WindowsApp1.exe
+D:\WindowsApp1\bin\Debug\WindowsApp1.pdb
+D:\WindowsApp1\bin\Debug\WindowsApp1.xml
+D:\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+D:\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+D:\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+D:\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\WindowsApp1\obj\Debug\WindowsApp1.exe
+D:\WindowsApp1\obj\Debug\WindowsApp1.xml
+D:\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\occhi\Desktop\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\occhi\Desktop\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\occhi\Desktop\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\occhi\Desktop\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\occhi\Desktop\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\occhi\Desktop\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\occhi\Desktop\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\occhi\Desktop\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\occhi\Desktop\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\occhi\Desktop\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\occhi\Desktop\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\occhi\Desktop\WindowsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\occhi\Desktop\WindowsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\occhi\Desktop\WindowsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\occhi\Desktop\WindowsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\occhi\Desktop\WindowsApp1\obj\Debug\WindowsApp1.vbproj.ResolveComReference.cache
+C:\Users\occhi\Desktop\WindowsApp1 - Copia\bin\Debug\WindowsApp1.exe.config
+C:\Users\occhi\Desktop\WindowsApp1 - Copia\bin\Debug\WindowsApp1.exe
+C:\Users\occhi\Desktop\WindowsApp1 - Copia\bin\Debug\WindowsApp1.pdb
+C:\Users\occhi\Desktop\WindowsApp1 - Copia\bin\Debug\WindowsApp1.xml
+C:\Users\occhi\Desktop\WindowsApp1 - Copia\bin\Debug\Interop.WMPLib.dll
+C:\Users\occhi\Desktop\WindowsApp1 - Copia\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\occhi\Desktop\WindowsApp1 - Copia\obj\Debug\Interop.WMPLib.dll
+C:\Users\occhi\Desktop\WindowsApp1 - Copia\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\occhi\Desktop\WindowsApp1 - Copia\obj\Debug\WindowsApp1.vbproj.ResolveComReference.cache
+C:\Users\occhi\Desktop\WindowsApp1 - Copia\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\occhi\Desktop\WindowsApp1 - Copia\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\occhi\Desktop\WindowsApp1 - Copia\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\occhi\Desktop\WindowsApp1 - Copia\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\occhi\Desktop\WindowsApp1 - Copia\obj\Debug\WindowsApp1.exe
+C:\Users\occhi\Desktop\WindowsApp1 - Copia\obj\Debug\WindowsApp1.xml
+C:\Users\occhi\Desktop\WindowsApp1 - Copia\obj\Debug\WindowsApp1.pdb
+C:\Users\elena turchi\Desktop\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\elena turchi\Desktop\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\elena turchi\Desktop\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\elena turchi\Desktop\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\elena turchi\Desktop\WindowsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\elena turchi\Desktop\WindowsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\elena turchi\Desktop\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\elena turchi\Desktop\WindowsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\elena turchi\Desktop\WindowsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\elena turchi\Desktop\WindowsApp1\obj\Debug\WindowsApp1.vbproj.ResolveComReference.cache
+C:\Users\elena turchi\Desktop\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\elena turchi\Desktop\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\elena turchi\Desktop\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\elena turchi\Desktop\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\elena turchi\Desktop\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\elena turchi\Desktop\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\elena turchi\Desktop\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\occhi\Desktop\WindowsApp1\bin\Debug\WindowsApp1.exe.manifest
+C:\Users\occhi\Desktop\WindowsApp1\bin\Debug\WindowsApp1.application
+C:\Users\occhi\Desktop\WindowsApp1\obj\Debug\WindowsApp1.exe.manifest
+C:\Users\occhi\Desktop\WindowsApp1\obj\Debug\WindowsApp1.application
+C:\Users\occhi\Desktop\WindowsApp1 - Copia (2)\bin\Debug\WindowsApp1.exe.config
+C:\Users\occhi\Desktop\WindowsApp1 - Copia (2)\bin\Debug\WindowsApp1.exe.manifest
+C:\Users\occhi\Desktop\WindowsApp1 - Copia (2)\bin\Debug\WindowsApp1.application
+C:\Users\occhi\Desktop\WindowsApp1 - Copia (2)\bin\Debug\WindowsApp1.exe
+C:\Users\occhi\Desktop\WindowsApp1 - Copia (2)\bin\Debug\WindowsApp1.pdb
+C:\Users\occhi\Desktop\WindowsApp1 - Copia (2)\bin\Debug\WindowsApp1.xml
+C:\Users\occhi\Desktop\WindowsApp1 - Copia (2)\bin\Debug\Interop.WMPLib.dll
+C:\Users\occhi\Desktop\WindowsApp1 - Copia (2)\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\occhi\Desktop\WindowsApp1 - Copia (2)\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\occhi\Desktop\WindowsApp1 - Copia (2)\obj\Debug\Interop.WMPLib.dll
+C:\Users\occhi\Desktop\WindowsApp1 - Copia (2)\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\occhi\Desktop\WindowsApp1 - Copia (2)\obj\Debug\WindowsApp1.vbproj.ResolveComReference.cache
+C:\Users\occhi\Desktop\WindowsApp1 - Copia (2)\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\occhi\Desktop\WindowsApp1 - Copia (2)\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\occhi\Desktop\WindowsApp1 - Copia (2)\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\occhi\Desktop\WindowsApp1 - Copia (2)\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\occhi\Desktop\WindowsApp1 - Copia (2)\obj\Debug\WindowsApp1.exe.manifest
+C:\Users\occhi\Desktop\WindowsApp1 - Copia (2)\obj\Debug\WindowsApp1.application
+C:\Users\occhi\Desktop\WindowsApp1 - Copia (2)\obj\Debug\WindowsApp1.exe
+C:\Users\occhi\Desktop\WindowsApp1 - Copia (2)\obj\Debug\WindowsApp1.xml
+C:\Users\occhi\Desktop\WindowsApp1 - Copia (2)\obj\Debug\WindowsApp1.pdb
+C:\Users\occhi\Desktop\WindowsApp1 - Copia\bin\Debug\WindowsApp1.exe.manifest
+C:\Users\occhi\Desktop\WindowsApp1 - Copia\bin\Debug\WindowsApp1.application
+C:\Users\occhi\Desktop\WindowsApp1 - Copia\obj\Debug\WindowsApp1.exe.manifest
+C:\Users\occhi\Desktop\WindowsApp1 - Copia\obj\Debug\WindowsApp1.application
+C:\Users\occhi\Desktop\WindowsApp1 - Copia\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\elena turchi\Desktop\WindowsApp1\bin\Debug\WindowsApp1.exe.manifest
+C:\Users\elena turchi\Desktop\WindowsApp1\bin\Debug\WindowsApp1.application
+C:\Users\elena turchi\Desktop\WindowsApp1\obj\Debug\WindowsApp1.exe.manifest
+C:\Users\elena turchi\Desktop\WindowsApp1\obj\Debug\WindowsApp1.application
+C:\Users\occhi\Desktop\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\occhi\Desktop\WindowsApp1 - Copia - Copia\bin\Debug\WindowsApp1.exe.config
+C:\Users\occhi\Desktop\WindowsApp1 - Copia - Copia\bin\Debug\WindowsApp1.exe.manifest
+C:\Users\occhi\Desktop\WindowsApp1 - Copia - Copia\bin\Debug\WindowsApp1.application
+C:\Users\occhi\Desktop\WindowsApp1 - Copia - Copia\bin\Debug\WindowsApp1.exe
+C:\Users\occhi\Desktop\WindowsApp1 - Copia - Copia\bin\Debug\WindowsApp1.pdb
+C:\Users\occhi\Desktop\WindowsApp1 - Copia - Copia\bin\Debug\WindowsApp1.xml
+C:\Users\occhi\Desktop\WindowsApp1 - Copia - Copia\bin\Debug\Interop.WMPLib.dll
+C:\Users\occhi\Desktop\WindowsApp1 - Copia - Copia\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\occhi\Desktop\WindowsApp1 - Copia - Copia\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\occhi\Desktop\WindowsApp1 - Copia - Copia\obj\Debug\Interop.WMPLib.dll
+C:\Users\occhi\Desktop\WindowsApp1 - Copia - Copia\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\occhi\Desktop\WindowsApp1 - Copia - Copia\obj\Debug\WindowsApp1.vbproj.ResolveComReference.cache
+C:\Users\occhi\Desktop\WindowsApp1 - Copia - Copia\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\occhi\Desktop\WindowsApp1 - Copia - Copia\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\occhi\Desktop\WindowsApp1 - Copia - Copia\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\occhi\Desktop\WindowsApp1 - Copia - Copia\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\occhi\Desktop\WindowsApp1 - Copia - Copia\obj\Debug\WindowsApp1.exe.manifest
+C:\Users\occhi\Desktop\WindowsApp1 - Copia - Copia\obj\Debug\WindowsApp1.application
+C:\Users\occhi\Desktop\WindowsApp1 - Copia - Copia\obj\Debug\WindowsApp1.exe
+C:\Users\occhi\Desktop\WindowsApp1 - Copia - Copia\obj\Debug\WindowsApp1.xml
+C:\Users\occhi\Desktop\WindowsApp1 - Copia - Copia\obj\Debug\WindowsApp1.pdb
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1\bin\Debug\WindowsApp1.exe.manifest
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1\bin\Debug\WindowsApp1.application
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1\obj\Debug\WindowsApp1.vbproj.ResolveComReference.cache
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1\obj\Debug\WindowsApp1.exe.manifest
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1\obj\Debug\WindowsApp1.application
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1 - Copia\bin\Debug\WindowsApp1.exe.config
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1 - Copia\bin\Debug\WindowsApp1.exe.manifest
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1 - Copia\bin\Debug\WindowsApp1.application
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1 - Copia\bin\Debug\WindowsApp1.exe
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1 - Copia\bin\Debug\WindowsApp1.pdb
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1 - Copia\bin\Debug\WindowsApp1.xml
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1 - Copia\bin\Debug\Interop.WMPLib.dll
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1 - Copia\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1 - Copia\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1 - Copia\obj\Debug\Interop.WMPLib.dll
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1 - Copia\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1 - Copia\obj\Debug\WindowsApp1.vbproj.ResolveComReference.cache
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1 - Copia\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1 - Copia\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1 - Copia\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1 - Copia\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1 - Copia\obj\Debug\WindowsApp1.exe.manifest
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1 - Copia\obj\Debug\WindowsApp1.application
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1 - Copia\obj\Debug\WindowsApp1.exe
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1 - Copia\obj\Debug\WindowsApp1.xml
+C:\Users\occhi\Desktop\Programma Definitivo\WindowsApp1 - Copia\obj\Debug\WindowsApp1.pdb
